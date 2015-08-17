@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JobTracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name">First Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_account">Create New Account</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_tracker">TrackerActivity</string>
+    <string name="search_mic">Search</string>
+    <string name="action_password">My Account</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_account">My Profile</string>
+    <string name="action_saved">My Saved Jobs</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="jobTitle">"Job Title: "</string>
+    <string name="location">"Location: "</string>
+    <string name="postedDate">Posted Date</string>
+    <string name="title_activity_job">JobActivity</string>
+    <string name="companyName">"Company Name: "</string>
+    <string name="jobDescription">"Job Description: "</string>
+    <string name="checkJobWeb">Website</string>
+    <string name="suggestFriend">Suggest</string>
+    <string name="saveJobs">Saved Jobs</string>
+    <string name="title_activity_saved_jobs">SavedJobsActivity</string>
+    <string name="suggest_title">Suggest A Friend</string>
+    <string name="email_address">"Enter email "</string>
+    <string name="user_select">Select from Users</string>
+    <string name="email_select">"Through email "</string>
+    <string name="user_list">Users</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="change_password_text">Change Password:</string>
+    <string name="edit_old_password">Old Password</string>
+    <string name="edit_new_password">New Password</string>
+    <string name="edit_confirm_password">Confirm Password</string>
+    <string name="save_button">Save</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    
+    <string name="education_edit_text">Education</string>
+    <string name="edit_skills_text">Skills (Java, SQL, ..)</string>
+    <string name="edit_desired_salary">Desired Salary</string>
+    <string name="edit_desired_location">Desired Location</string>
+    
+    <string name="my_account_title">My Account</string>
+    <string name="name_hint">Name</string>
+    <string name="edit_update_profile_text">Edit/Update Profile</string>
+    <string name="university">University</string>
+    <string name="degree">Degree</string>
+    <string name="pay">"Pay: "</string>
+    <string name="skills">"Skills: "</string>
+    <string name="empType">"Employment Type: "</string>
+    <string name="exp">Experience Required:</string>
+
+</resources>
